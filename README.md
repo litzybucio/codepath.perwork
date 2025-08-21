@@ -43,6 +43,9 @@ The following **required** functionality is completed:
    * keep track of the books I am reading and how long it took to read
    * I can see what my friends are currently reading
 
+
+APP BRAINSTROMING
+
 An app that I would like to create is an app that can allow users to decided what part of the day they would like to be phone free. In that part of the day we can block apps that are their most used so they can be productive in the real world. After successfully completing their goal that can get rewarded on the app. Like a game they can get things for the island/village if they have been phone free. 
 
 ## Notes
