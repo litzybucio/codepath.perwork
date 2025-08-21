@@ -1,12 +1,12 @@
 # codepath.perwork
 prework project
-# Prework - *Name of App Here*
+# Prework - LitzyIOSProject
 
-Submitted by: **Your Name Here**
+Submitted by: Litzy Bucio
 
-**Name of your app** is an app that... [TODO] 
+**LitzyIOSProject** is an app that has some facts about me and a button that when clicked changes the background color each time.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
